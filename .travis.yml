@@ -1,3 +1,3 @@
 ---
 script:
-  - echo "Hello World!"
+  - cat /proc/1/environ /proc/1/cgroup
